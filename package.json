@@ -1,5 +1,5 @@
 {
-    "name": "mean-kit",
+    "name": "meanKit",
     "version": "1.0.0",
     "description": "MEAN Kit - A tribute to the classics",
     "main": "server.js",
@@ -23,7 +23,7 @@
     },
     "engines": {
 	"node": "0.10.29"
-    }
+    },
     "license": "GPL2"
 }
 
