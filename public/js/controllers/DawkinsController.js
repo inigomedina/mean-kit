@@ -1,5 +1,6 @@
 angular.module('DawkinsController', []).controller('DawkinsController', function($scope) {
 
-	$scope.tagline = 'Nothing beats a pocket protector!';
+    $scope.claim = 'Dawkins';
+    $scope.portrait = 'dawkins.jpg';
 
 });
